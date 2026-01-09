@@ -8,6 +8,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasjam37&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/-discord-%23E4405F?style=for-the-badge&logo=discord&logoColor=white"</a>
+</div>
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
